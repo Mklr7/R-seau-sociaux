@@ -1,2 +1,2 @@
-# R-seau-sociaux
-Réseau typé Facebook
+# Reseau-sociaux
+Réseau-Sociaux typé Facebook
